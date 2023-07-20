@@ -1,0 +1,7 @@
+body{
+    margin: 10px 50px;
+}
+div {
+    border: solid blue 1px;
+    box-shadow: 10px 10px rgb(173, 221, 244);
+  }
